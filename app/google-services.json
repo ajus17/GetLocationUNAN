@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940955968445",
+    "project_id": "getlocationunan",
+    "storage_bucket": "getlocationunan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940955968445:android:cf494d96f060e783b8e8d4",
+        "android_client_info": {
+          "package_name": "com.teunan.getlocationunan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940955968445-ofcjo4njpjsokigq8ubann49asp9vfb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtl3Y_1mHxhbgO-_W0muoI-n3MxGO7lZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940955968445-ofcjo4njpjsokigq8ubann49asp9vfb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
